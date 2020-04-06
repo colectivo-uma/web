@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="es-bo">
 
 <head>
 
@@ -31,7 +31,11 @@
   <meta name="description" content="An example of linking directly to an external project website using `external_link`.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/external-project/">
+  <link rel="alternate" hreflang="en" href="/en/project/external-project/">
+  
+  <link rel="alternate" hreflang="zh" href="/zh/project/external-project/">
+  
+  <link rel="alternate" hreflang="es-bo" href="/project/external-project/">
 
   
 
@@ -39,7 +43,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -212,8 +216,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu3d5be9b010ff280196d01bbb78793199_125463_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu3d5be9b010ff280196d01bbb78793199_125463_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/project/external-project/">
 
@@ -233,7 +237,7 @@
   <meta property="og:url" content="/project/external-project/">
   <meta property="og:title" content="External Project | UMA">
   <meta property="og:description" content="An example of linking directly to an external project website using `external_link`."><meta property="og:image" content="/project/external-project/featured.jpg">
-  <meta property="twitter:image" content="/project/external-project/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="/project/external-project/featured.jpg"><meta property="og:locale" content="es-bo">
   
     
       <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -278,10 +282,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "UMA",
+    "name": "Colectivo Cultural UMA",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "/images/icon_hu3d5be9b010ff280196d01bbb78793199_125463_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "An example of linking directly to an external project website using `external_link`."
@@ -314,7 +318,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>Search</h1>
+          <h1>Buscar</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -323,7 +327,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -359,7 +363,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Barra de navegación">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -578,6 +582,26 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Español</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>Español</span>
+          </div>
+          
+          <a class="dropdown-item" href="/en/project/external-project/">
+            <span>English</span>
+          </a>
+          
+          <a class="dropdown-item" href="/zh/project/external-project/">
+            <span>中文 (简体)</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -633,7 +657,7 @@
     
       
     
-    Apr 27, 2016
+    27 Apr, 2016
   </span>
   
 
@@ -643,6 +667,9 @@
 
   
   
+  
+  <span class="middot-divider"></span>
+  <a href="/project/external-project/#disqus_thread"></a>
   
 
   
@@ -666,7 +693,7 @@
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="http://example.org" target="_blank" rel="noopener">Go to Project Site</a>
+  <a class="btn btn-outline-primary my-1" href="http://example.org" target="_blank" rel="noopener">Ir al sitio del proyecto</a>
   
   
 
@@ -930,6 +957,13 @@
 
 
 
+<section id="comments">
+  
+    
+
+  
+</section>
+
 
 
 
@@ -1004,12 +1038,12 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const i18n = {"no_results":"No se encontraron resultados","placeholder":"Buscar...","results":"resultados encontrados"};
       const content_type = {
         'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
+        'project': "Proyectos",
+        'publication' : "Publicaciones",
+        'talk' : "Charlas"
         };
     </script>
     
@@ -1042,6 +1076,8 @@
     
 
     
+    
+    <script id="dsq-count-scr" src="https://.disqus.com/count.js" async></script>
     
 
     
@@ -1084,7 +1120,7 @@
   
 
   <p class="powered-by">
-    
+    UMA © &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -1110,7 +1146,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">Citar</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1120,10 +1156,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> Copiar
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
+          <i class="fas fa-download"></i> Descargar
         </a>
         <div id="modal-error"></div>
       </div>
