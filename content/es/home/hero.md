@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Colectivo Cultural UMA"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "UMA.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -50,9 +50,7 @@ hero_media = "hero-academic.png"
 [cta_note]
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+**Nuestros objetivos**
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Desarrollar una propuesta estratégica social con valores comunitarios, colectivos, integrales e inclusivos. Tomando en cuenta siempre nuestro contexto para poder incidir en el cambio social mediante distintos espacios, en contra del imperialismo, en constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la
+madre tierra.
