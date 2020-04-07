@@ -5,7 +5,7 @@
     <link>/zh/authors/admin/</link>
       <atom:link href="/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>UMA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Colectivo Cultural UMA ©</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Colectivo Cultural UMA © [![Netlify Status](https://api.netlify.com/api/v1/badges/99863592-4a8b-4fcd-acd7-e4808fe3e328/deploy-status)](https://app.netlify.com/sites/ccuma/deploys)</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/zh/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
       <title>UMA</title>

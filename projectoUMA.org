@@ -1,0 +1,25 @@
+#+TITLE: projectoUMA
+
+* github
+
+git remote add origin https://github.com/ccuma/sitioweb.git
+git push -u origin master
+
+* Youtube
+
+ID de usuario: krd1maZpiek6pfU7o1aRmQ
+ID de canal: UCkrd1maZpiek6pfU7o1aRmQ
+
+tiene marca de agua los videos que se suba y es el logo de UMA
+por ahora los administradores son
+
+jose.sagaz@gmail.com
+
+Tal R
+zurdaalsur@gmail.com
+
+Aby
+torrezalvabi@gmail.com
+
+Z
+charles.angel10@gmail.com
