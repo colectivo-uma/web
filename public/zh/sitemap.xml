@@ -392,11 +392,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="/zh/privacy/"
                 />
@@ -407,13 +402,13 @@
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/terms/"
+                hreflang="es"
+                href="/terms/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/terms/"
+                hreflang="en"
+                href="/en/terms/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -427,13 +422,13 @@
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="es"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/"
+                hreflang="en"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"

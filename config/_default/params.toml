@@ -90,8 +90,8 @@ address = {street = "Senkata", city = "El Alto", region = "La Paz", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-
+coordinates = {latitude = "-16.58147", longitude = "-68.18515"}
+# -16.58147, -68.18515
 # Directions for visitors to locate you.
 directions = "La direccion exacta es reservada "
 
@@ -261,7 +261,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 18
 
 ############################
 ## Marketing
