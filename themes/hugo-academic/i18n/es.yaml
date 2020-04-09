@@ -67,7 +67,7 @@
 - id: contact_send
   translation: Enviar
 - id: book_appointment
-  translation: Solicitar una cita
+  translation: Solicitar una reunión o evento
 - id: abstract
   translation: Resumen
 - id: publication

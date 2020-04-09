@@ -31,9 +31,9 @@
   <meta name="description" content="Somos un colectivo que tenemos como objetivo reaprender todo el conocimiento ancestral de nuestras culturas en distintos espacios como; el conocimiento científico, formas de organización, espiritualidad y distintas expresiones culturales y artísticas.">
 
   
-  <link rel="alternate" hreflang="es" href="/">
-  
   <link rel="alternate" hreflang="en" href="/en/">
+  
+  <link rel="alternate" hreflang="es" href="/">
   
   <link rel="alternate" hreflang="zh-Hans" href="/zh/">
 
@@ -507,12 +507,12 @@
             <span>中文 (简体)</span>
           </div>
           
-          <a class="dropdown-item" href="/" data-target="/">
-            <span>Español</span>
-          </a>
-          
           <a class="dropdown-item" href="/en/" data-target="/en/">
             <span>English</span>
+          </a>
+          
+          <a class="dropdown-item" href="/" data-target="/">
+            <span>Español</span>
           </a>
           
         </div>
@@ -3197,13 +3197,51 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   <section id="contact" class="home-section wg-contact   "  >
     <div class="container">
       
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>
+
+
+
+
+
 
 
 
 
 
 <div class="row contact-widget">
-  <div class="col-12 col-lg-4 section-heading">
+
+<script src="/js/particles.min.js"></script>
+<script src="/js/app-particles.js"></script>
+<style>
+.contact-canvas-el {
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+z-index:-1;
+}
+</style>
+
+<div class="col-12 col-lg-4 section-heading">
     <h1>Contact</h1>
     
   </div>
@@ -3255,87 +3293,20 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
       
       <li>
         <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>La direccion exacta es reservada</span>
+        <span>La direccion exacta es confidencial</span>
       </li>
       
 
-      
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00</span>
-      </li>
       
 
       
       <li>
         <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-        <a href="https://calendly.com" target="_blank" rel="noopener">预约</a>
+        <a href="https://calendly.com/colectivoculturaluma" target="_blank" rel="noopener">预约</a>
       </li>
       
 
       
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:echo123?call" >Skype Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
-        <a href="https://keybase.io/" target="_blank" rel="noopener">Chat on Keybase</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
-        <a href="https://discourse.gohugo.io" target="_blank" rel="noopener">Discuss on Forum</a>
-      </li>
       
 
     </ul>
@@ -3354,7 +3325,6 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
   </div>
 </div>
-
     </div>
   </section>
 
@@ -3487,11 +3457,11 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
 
   <p class="powered-by">
-    © Colectivo Cultural UMA © &middot; 
+    © Colectivo Cultural UMA ↭ <span style="color: red;font-size:1.25rem;">&hearts;</span> &harrw; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
 
     
     <span class="float-right" aria-hidden="true">

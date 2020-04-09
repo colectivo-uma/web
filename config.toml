@@ -10,7 +10,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Colectivo Cultural UMA &copy;"
+copyright = "&COPY; Colectivo Cultural UMA &harrw; "
 #[![Netlify Status](https://api.netlify.com/api/v1/badges/99863592-4a8b-4fcd-acd7-e4808fe3e328/deploy-status)](https://app.netlify.com/sites/ccuma/deploys)"
 
 ############################
