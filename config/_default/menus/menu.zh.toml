@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Objetivos"
+  name = "Cultura, política y mas"
   url = "#experience"
   weight = 20
 
@@ -29,7 +29,7 @@
 #  weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 60
 

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Colectivo Cultural UMA"
+title = "Cultural Collective **UMA**"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "UMA.png"
@@ -37,19 +37,18 @@ hero_media = "UMA.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "../img/Historia-uma-en.pdf"
+  label = "Document history"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = " "
+  label = " "
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = '<sup>&lowast;</sup> _*UMA means WATER in Aymara*_'
 +++
-**Our objectives**
 
-Develop a strategic social proposal with community, collective, comprehensive and inclusive values. Always taking into account our context in order to influence social change through different spaces, against imperialism, in constant coordination with all organizations that work for the good of humanity and Mother Earth.
+We are a group of all ages, trying to develop alternative education and cultural and political training in the city of El Alto, at the same time we try to organize ourselves and live together under a proposal of community, collective, integral and inclusive values. Always taking into account the context in which we find ourselves in order to influence social change through different spaces, against imperialism. In constant coordination with all organizations that work for the good of humanity and Mother Earth.
