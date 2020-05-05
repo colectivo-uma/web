@@ -44,7 +44,7 @@ hero_media = "UMA.png"
   
 [cta_alt]
   url = ""
-  label = ""
+  label = ""  
 
 # Note. An optional note to show underneath the links.
 [cta_note]
