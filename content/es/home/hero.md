@@ -37,7 +37,7 @@ hero_media = "UMA.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = " "
+  url = "img/Historia-uma.pdf"
   label = "Documento"
   icon_pack = "fas"
   icon = "download"
@@ -51,7 +51,11 @@ hero_media = "UMA.png"
   label = '<sup>&lowast;</sup> _*UMA palabra Aymara que significa AGUA*_'
 +++
 
-**Nuestros objetivos**
-
-Desarrollar una propuesta estratégica social con valores comunitarios, colectivos, integrales e inclusivos. Tomando en cuenta siempre nuestro contexto para poder incidir en el cambio social mediante distintos espacios, en contra del imperialismo, en constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la
-madre tierra.
+Somos un grupo de todas las edades, que intenta desarrollar la  educación
+alternativa y la formación cultural y política en la ciudad de El Alto, al mismo
+tiempo tratamos de organizarnos y convivir bajo una propuesta de valores
+comunitarios, colectivos, intégrales e inclusivos.  Tomando en cuenta siempre el
+contexto en el que nos encontramos para poder incidir en el cambio social
+mediante distintos espacios, en contra del imperialismo. En constante
+coordinación con todas las organizaciones que trabajen por el bien de la
+humanidad y la madre tierra.

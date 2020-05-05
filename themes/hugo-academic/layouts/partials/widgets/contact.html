@@ -1,4 +1,22 @@
 
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $autolink := default true $page.Params.autolink }}
+{{ $data := site.Params }}
+
+<!-- Contact widget -->
+
+<!-- scripts -->
+
+<div class="row contact-widget">
+
+
+<div id="particles-js"></div>
+
+<!-- scripts -->
+<script src="js/particles.min.js"></script>
+<script src="js/app-particles.js"></script>
+
 <script>
   var count_particles, stats, update;
   stats = new Stats;
@@ -19,29 +37,17 @@
   requestAnimationFrame(update);
 </script>
 
-{{ $ := .root }}
-{{ $page := .page }}
-{{ $autolink := default true $page.Params.autolink }}
-{{ $data := site.Params }}
 
-<!-- Contact widget -->
 
-<!-- scripts -->
 
-<div class="row contact-widget">
 
-<script src="/js/particles.min.js"></script>
-<script src="/js/app-particles.js"></script>
-<style>
-.contact-canvas-el {
-position:fixed;
-top:0;
-left:0;
-width:100%;
-height:100%;
-z-index:-1;
-}
-</style>
+
+
+
+
+
+
+
 
 <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>

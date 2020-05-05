@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMA</title>
+    <link>/authors/ccuma/</link>
+      <atom:link href="/authors/ccuma/index.xml" rel="self" type="application/rss+xml" />
+    <description>UMA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright>
+    <image>
+      <url>/authors/ccuma/avatar_hu461a3520e37de787df1d09534e5dbbea_62798_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>UMA</title>
+      <link>/authors/ccuma/</link>
+    </image>
+    
+  </channel>
+</rss>
