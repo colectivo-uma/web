@@ -12,11 +12,16 @@
   {{ end }}
 
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} <span style="color: red;font-size:1.25rem;">&hearts;</span> &harrw; {{ end }}
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+
+    <p class="powered-by">
+    © Colectivo Cultural UMA | La Paz, Bolivia | Desarrollado con  <span style="color: firebrick;"> ❤ </span> y Software Libre, 
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Plantilla "Academic" </a> de
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>. Todos los derechos reservados.
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">

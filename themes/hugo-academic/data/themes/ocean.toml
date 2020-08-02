@@ -2,9 +2,7 @@
 name = "Ocean"
 
 # Is theme light or dark?
-dark = true
-light = false
-
+light = true
 
 # Primary
 primary = "#3f51b5"

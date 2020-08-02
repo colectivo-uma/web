@@ -1,55 +1,11 @@
-
 {{ $ := .root }}
 {{ $page := .page }}
 {{ $autolink := default true $page.Params.autolink }}
 {{ $data := site.Params }}
 
 <!-- Contact widget -->
-
-<!-- scripts -->
-
 <div class="row contact-widget">
-
-
-<div id="particles-js"></div>
-
-<!-- scripts -->
-<script src="js/particles.min.js"></script>
-<script src="js/app-particles.js"></script>
-
-<script>
-  var count_particles, stats, update;
-  stats = new Stats;
-  stats.setMode(0);
-  stats.domElement.style.position = 'absolute';
-  stats.domElement.style.left = '0px';
-  stats.domElement.style.top = '0px';
-  document.body.appendChild(stats.domElement);
-  count_particles = document.querySelector('.js-count-particles');
-  update = function() {
-    stats.begin();
-    stats.end();
-    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
-      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
-    }
-    requestAnimationFrame(update);
-  };
-  requestAnimationFrame(update);
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="col-12 col-lg-4 section-heading">
+  <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>

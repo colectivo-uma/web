@@ -20,15 +20,15 @@ hero_media = "UMA.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image = "grande2.gif"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -36,11 +36,11 @@ hero_media = "UMA.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "img/Historia-uma.pdf"
-  label = "Documento"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+#  url = "img/Historia-uma.pdf"
+#  label = "Documento"
+#  icon_pack = "fas"
+#  icon = "download"
   
 [cta_alt]
   url = ""
@@ -51,4 +51,8 @@ hero_media = "UMA.png"
   label = '<sup>&lowast;</sup> _*UMA palabra Aymara que significa AGUA*_'
 +++
 
-Somos un grupo de todas las edades, que intenta desarrollar la  educación alternativa y la formación cultural y política en la ciudad de El Alto, al mismo tiempo tratamos de organizarnos y convivir bajo una propuesta de valores comunitarios, colectivos, intégrales e inclusivos.  Tomando en cuenta siempre el contexto en el que nos encontramos para poder incidir en el cambio social mediante distintos espacios, en contra del imperialismo. En constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la madre tierra.
+Tenemos como objetivo desarrollar una propuesta estratégica social con valores comunitarios, colectivos, intégrales e
+inclusivos con la población. Tomando en cuenta siempre el contexto en el que nos encontramos
+para poder incidir en el cambio social mediante distintos espacios, en contra del imperialismo. En
+constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la
+madre tierra.

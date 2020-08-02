@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "XL"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -45,8 +45,6 @@ org_name = "Colectivo Cultural UMA"
 author = "ccuma"
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Somos un colectivo que tenemos como objetivo reaprender todo el conocimiento ancestral de nuestras culturas en distintos espacios como; el conocimiento científico, formas de organización, espiritualidad y distintas expresiones culturales y artísticas."
-
-
 
 ############################
 ## Site Features
@@ -107,9 +105,9 @@ appointment_url = "https://calendly.com/colectivoculturaluma"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "twitter",  icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  # {icon = "skype",    icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "keybase",  icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
@@ -131,6 +129,7 @@ twitter = ""
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "2 Jan, 2006"
+
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 

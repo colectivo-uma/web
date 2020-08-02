@@ -35,7 +35,7 @@
 
 [[buttons]]
   id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  url = "whatsapp://send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
@@ -55,7 +55,7 @@
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "pinterest"
@@ -63,7 +63,7 @@
   title = "Pinterest"
   icon_pack = "fab"
   icon = "pinterest"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "xing"
@@ -71,7 +71,7 @@
   title = "Xing"
   icon_pack = "fab"
   icon = "xing"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "tumblr"
@@ -79,4 +79,4 @@
   title = "Tumblr"
   icon_pack = "fab"
   icon = "tumblr"
-  enable = false
+  enable = true
