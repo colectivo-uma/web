@@ -12,11 +12,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/courses/example/example1/"
                 />
@@ -29,11 +24,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,11 +42,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/courses/example/example2/"
                 />
@@ -69,11 +54,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/talk/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,11 +72,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/talk/"
                 />
@@ -112,14 +87,134 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/articulos/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/articulos/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/articulos/viene-el-lobo/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/cancion-latinoamericana-protesta/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/el-pueblo-unido-jamas-sera-vencido/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/videos/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biblioteca/antonio-gramsci/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/marxismo/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -129,11 +224,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/terms/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,11 +242,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/post/"
                 />
@@ -169,11 +254,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/writing-technical-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/writing-technical-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -192,33 +272,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/courses/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/admin/"
                 />
   </url>
   
@@ -229,11 +284,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -252,53 +302,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/publication/preprint/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
                 />
   </url>
   
@@ -309,11 +314,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -332,33 +332,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/tags/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url>
   
@@ -369,11 +344,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -392,11 +362,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/slides/"
                 />
@@ -412,29 +377,14 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/para-borrar-privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/para-borrar-privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/para-borrar-privacy/"
-                />
   </url>
   
   <url>
@@ -444,11 +394,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -467,11 +412,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/tags/demo/"
                 />
@@ -484,11 +424,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -507,11 +442,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/project/internal-project/"
                 />
@@ -524,11 +454,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -547,11 +472,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/tags/academic/"
                 />
@@ -567,33 +487,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/post/getting-started/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/categories/"
                 />
   </url>
   
@@ -604,11 +499,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/categories/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/demo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -627,11 +517,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/publication_types/2/"
                 />
@@ -644,11 +529,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -667,11 +547,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/authors/robert-ford/"
                 />
@@ -687,11 +562,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="/publication_types/1/"
                 />
@@ -704,11 +574,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"

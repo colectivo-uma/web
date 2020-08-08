@@ -12,11 +12,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/courses/example/example1/"
                 />
@@ -29,11 +24,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,11 +42,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/courses/example/example2/"
                 />
@@ -69,11 +54,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/talk/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,11 +72,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/talk/"
                 />
@@ -109,11 +84,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -132,11 +102,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/terms/"
                 />
@@ -149,11 +114,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -172,11 +132,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/post/writing-technical-content/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/post/writing-technical-content/"
                 />
@@ -189,11 +144,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/courses/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -212,11 +162,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/authors/admin/"
                 />
@@ -229,11 +174,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -252,11 +192,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/publication/preprint/"
                 />
@@ -269,11 +204,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -292,11 +222,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/publication_types/"
                 />
@@ -309,11 +234,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -332,11 +252,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/source-themes/"
                 />
@@ -349,11 +264,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -372,11 +282,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/post/jupyter/"
                 />
@@ -389,11 +294,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/slides/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -412,11 +312,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/slides/example/"
                 />
@@ -425,16 +320,6 @@
   <url>
     <loc>/en/para-borrar-privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/para-borrar-privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/para-borrar-privacy/"
-                />
   </url>
   
   <url>
@@ -444,11 +329,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -467,11 +347,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/demo/"
                 />
@@ -484,11 +359,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -507,11 +377,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/project/internal-project/"
                 />
@@ -524,11 +389,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -547,11 +407,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/tags/academic/"
                 />
@@ -564,11 +419,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -587,11 +437,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/categories/"
                 />
@@ -604,11 +449,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/categories/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/demo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -627,11 +467,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/publication_types/2/"
                 />
@@ -644,11 +479,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -667,11 +497,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/authors/robert-ford/"
                 />
@@ -687,11 +512,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/en/publication_types/1/"
                 />
@@ -704,11 +524,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"

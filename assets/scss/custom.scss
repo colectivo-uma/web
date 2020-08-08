@@ -1,48 +1,51 @@
-.hero-title {
-    text-align: center;
+img {
+    max-width: 80%;
 }
-dark .navbar {
-    box-shadow: 0 0.125rem 0.25rem 0 rgb(0, 25, 25);
+.dark .navbar {
+    background: #3f51b5 !important;
+    box-shadow: 0.1rem 0.04rem rgb(255, 255, 255);
 }
-.wg-hero.dark .hero-title, .wg-hero.dark .hero-lead, .wg-hero.dark .hero-cta-alt, .wg-hero.dark .hero-note > * {
-    color: #fff;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+.navbar {
+    min-height: 70px !important;
 }
-.gallery a[data-fancybox] img {
-    height: 80px;
+.navbar {
+    font-size:16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
 }
-.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-    color: #fff;
+
+.navbar-light .navbar-nav > li.nav-item > a.active, .navbar-light .navbar-nav > li.nav-item > a.active:focus, .navbar-light .navbar-nav > li.nav-item > a.active:hover {
+    color: rgb(0, 136, 204);
+    font-weight: 700;
+    background-color: transparent !important;
 }
-.section-heading p {
-    color: rgba(255,255,255,0.54);
+
+/* classes para el footer */
+
+.grilla-fila {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
-.article-style aside, .alert-note {
-    background-color: #f6fbfe80;
+.grilla-columna {
+  flex: 50%;
+  padding: 0 4px;
+  display: flex;
+  justify-content: space-around;
 }
-.navbar-brand img {
-    border-radius: 5px;
+
+.grilla-columna img {
+  margin-top: 1em;
+  vertical-align: middle;
+  display: inline;
+  width: 3em;
 }
-.article-style aside, .alert-note {
-    background-color: #F96854;
+.grilla-fila a:not(.btn):not(.hero-cta-alt) {
+  text-decoration: none;    
 }
-.article-style aside, .alert-note {
-    color: #fff;
-    border-color: #F96854;
-}
-.article-style aside p::before,
-div.alert>div:first-child::before {
- color:#fff;
-  content:'\f03a';
-}
-.btn-primary {
-    color: #fff;
-    background-color: #F96854;
-    border-color: #F96854;
-}
-.dark .btn-primary, .dark .btn.btn-primary.active {
-    color: white;
-}
-.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-    background-color: #F96854 !important;
+.grilla-fila.home-section.dark a:not(.btn) {
+    color: #BFBF9A;
+    text-decoration: none;
 }

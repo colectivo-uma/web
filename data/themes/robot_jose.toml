@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Mr Robot Jose"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(0, 136, 204)"
+
+# Menu
+menu_primary = "rgb(63, 81, 181)"         #el color de la barra
+menu_text = "rgba(255,255,255,1)"
+menu_text_active = "rgb(0, 136, 204)"
+menu_title = "rgb(153, 153, 153)"
+
+# Home sections
+home_section_odd =  "rgb(247, 247, 247)"          #"rgb(29, 33, 39)"
+home_section_even = "rgb(255, 255, 255)"            #"rgb(29, 33, 39)"

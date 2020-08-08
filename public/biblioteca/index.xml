@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotecas | UMA</title>
+    <link>/biblioteca/</link>
+      <atom:link href="/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bibliotecas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu470d5882ff1280e6f6f2bca9f380a67b_398965_300x300_fit_lanczos_2.png</url>
+      <title>Bibliotecas</title>
+      <link>/biblioteca/</link>
+    </image>
+    
+    <item>
+      <title>La formación de los intelectuales</title>
+      <link>/biblioteca/antonio-gramsci/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/biblioteca/antonio-gramsci/</guid>
+      <description>&lt;p&gt;¿Los intelectuales son un grupo social autónomo e independiente, o por el contrario cada grupo social tiene una categoría propia y especializada de intelectuales? El problema es complejo por las formas variadas que ha asumido hasta hoy el proceso histórico real de formación de las diversas categorías intelectuales.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

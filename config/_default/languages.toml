@@ -12,6 +12,6 @@
   languageCode = "en-us"
   contentDir = "content/en"
 
-[zh]
-  languageCode = "zh-Hans"
-  contentDir = "content/zh"
+#[zh]
+#  languageCode = "zh-Hans"
+#  contentDir = "content/zh"

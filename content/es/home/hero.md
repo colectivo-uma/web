@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Colectivo Cultural **UMA**"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "UMA.png"
@@ -36,11 +36,11 @@ hero_media = "UMA.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-#[cta]
-#  url = "img/Historia-uma.pdf"
-#  label = "Documento"
-#  icon_pack = "fas"
-#  icon = "download"
+[cta]
+  url = "img/Historia-uma.pdf"
+  label = "Mas sobre nosotros..."
+  icon_pack = "fas"
+  icon = "download"
   
 [cta_alt]
   url = ""
@@ -51,8 +51,4 @@ hero_media = "UMA.png"
   label = '<sup>&lowast;</sup> _*UMA palabra Aymara que significa AGUA*_'
 +++
 
-Tenemos como objetivo desarrollar una propuesta estratégica social con valores comunitarios, colectivos, intégrales e
-inclusivos con la población. Tomando en cuenta siempre el contexto en el que nos encontramos
-para poder incidir en el cambio social mediante distintos espacios, en contra del imperialismo. En
-constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la
-madre tierra.
+Somos un grupo de todas las edades, que intenta desarrollar la educación alternativa y la formación cultural y política en la ciudad de El Alto, al mismo tiempo tratamos de organizarnos y convivir bajo una propuesta de valores comunitarios, colectivos, intégrales e inclusivos, tomando en cuenta siempre el contexto en el que nos encontramos para poder incidir en el cambio social mediante distintos espacios y en constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la madre tierra.

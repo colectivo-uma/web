@@ -9,24 +9,46 @@
   weight = 10
 
 [[main]]
+  identifier = "cultura"
   name = "Cultura, política y mas"
-  url = "#experience"
+  url = "#articulos"
   weight = 20
+  
+[[main]]
+  parent = "cultura"
+  name = "Artículos"
+  url = "#articulos"
+  weight = 1
+  
+[[main]]
+  parent = "cultura"
+  name = "Vídeos"
+  url = "#videos"
+  weight = 2  
+  
+  [[main]]
+  parent = "cultura"
+  name = "Biblioteca"
+  url = "#biblioteca"
+  weight = 3
 
 [[main]]
+  identifier = "actividades"
   name = "Actividades"
-  url = "#accomplishments"
+  url = "#actividades"
   weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  parent = "actividades"
+  name = "Educativas"
+  url = "#"
+  weight = 1
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
+[[main]]
+  parent = "actividades"
+  name = "Culturales"
+  url = "#"
+  weight = 2
 
 [[main]]
   name = "Contacto"

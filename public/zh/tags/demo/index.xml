@@ -5,18 +5,18 @@
     <link>/zh/tags/demo/</link>
       <atom:link href="/zh/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu946c0705802eaa752a2c93cdc9f2df20_179698_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
       <link>/zh/tags/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>/zh/project/external-project/</link>
+      <link>/zh/en/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/zh/project/external-project/</guid>
+      <guid>/zh/en/project/external-project/</guid>
       <description></description>
     </item>
     
