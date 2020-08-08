@@ -49,3 +49,9 @@ img {
     color: #BFBF9A;
     text-decoration: none;
 }
+
+@media (max-width: 991.98px) {
+ .navbar-brand img {
+  max-height:30px
+ } }
+
