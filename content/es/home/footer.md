@@ -48,15 +48,24 @@ subtitle = "Instituciones amigas"
 +++
 <div class="grilla-fila">
   <div class="grilla-columna">
+  
+[![Bolivia Solidarity Campaign](img/aliados/bsc.png)](http://boliviasolidarity.org.uk/)
 
-{{< figure library="true" src="aliados/bsc.png" title="[B S C](http://boliviasolidarity.org.uk/)">}}
-{{< figure library="true" src="aliados/rt.png" title="[R T](https://actualidad.rt.com/)">}}
-{{< figure library="true" src="aliados/telesur.png" title="[TeleSur](https://www.telesurtv.net/)">}}
-{{< figure library="true" src="aliados/rebelion1.png" title="[Rebelión](https://rebelion.org/)">}}
-{{< figure library="true" src="aliados/pagina12.png" title="[Página 12](https://www.pagina12.com.ar/)">}}
-{{< figure library="true" src="aliados/cubadebate.jpg" title="[cubadebate](http://www.cubadebate.cu/)">}}
-{{< figure library="true" src="aliados/colectivoAmauta.png" title="[Amauta](https://amauta.lahaine.org/)">}}
-{{< figure library="true" src="aliados/CSPL.png" title="[CSPL](https://ffyh.unc.edu.ar/comitesolidaridad/)">}}
-{{< figure library="true" src="aliados/laEpoca2.png" title="[La Época](https://www.la-epoca.com.bo/)">}}
+[![RT](img/aliados/rt.png)](https://actualidad.rt.com/)
+
+[![TeleSur](img/aliados/telesur.png)](https://www.telesurtv.net/)
+
+[![Rebelión](img/aliados/rebelion1.png)](https://rebelion.org/)
+
+[![Página 12](img/aliados/pagina12.png)](https://www.pagina12.com.ar/)
+
+[![Cuba Debate](img/aliados/cubadebate.jpg)](http://www.cubadebate.cu/)
+
+[![Colectivo Amauta](img/aliados/colectivoAmauta.png)](https://amauta.lahaine.org/)
+
+[![CSPL](img/aliados/CSPL.png)](https://ffyh.unc.edu.ar/comitesolidaridad/)
+
+[![la Época](img/aliados/laEpoca2.png)](https://www.la-epoca.com.bo/)
+
  </div>
 </div>
