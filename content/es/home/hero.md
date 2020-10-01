@@ -51,4 +51,8 @@ hero_media = "UMA.png"
   label = '<sup>&lowast;</sup> _*UMA palabra Aymara que significa AGUA*_'
 +++
 
+<<<<<<< HEAD
 Somos un grupo de todas las edades, que intenta desarrollar la educación alternativa y la formación cultural y política en la ciudad de El Alto, al mismo tiempo tratamos de organizarnos y convivir bajo una propuesta de valores comunitarios, colectivos, intégrales e inclusivos, tomando en cuenta siempre el contexto en el que nos encontramos para poder incidir en el cambio social mediante distintos espacios y en constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la madre tierra. Abby
+=======
+Somos un grupo de todas las edades, que intenta desarrollar la educación alternativa y la formación cultural y política en la ciudad de El Alto, al mismo tiempo tratamos de organizarnos y convivir bajo una propuesta de valores comunitarios, colectivos, intégrales e inclusivos, tomando en cuenta siempre el contexto en el que nos encontramos para poder incidir en el cambio social mediante distintos espacios y en constante coordinación con todas las organizaciones que trabajen por el bien de la humanidad y la madre tierra. Jose 
+>>>>>>> 59f01af1a011a0f7bd5fe70f2742aea99a8e8694
