@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>/en/terms/</loc>
+    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/terms/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -300,6 +315,11 @@
                 hreflang="en"
                 href="/en/slides/example/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/para-borrar-privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
