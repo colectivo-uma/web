@@ -1,8 +1,8 @@
 ---
-date: "2020-06-08"
+date: "2022-05-11"
 external_link: ""
 image:
-  caption: Cubierta de La formación de los intelectuales
+  caption: Paulo Reglus Neves Freire
   focal_point: Smart
 links: 
 slides: 
@@ -73,7 +73,7 @@ Hijo de una familia de clase media pobre de Recife, Brasil, nació el 19 de sept
   Sobre la Acción Cultural [por Ganz1912]
 </a>
 <a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing" target="_blank" rel="noopener">
-  SHOR, I. - Miedo y Osadía [por Ganz1912].pdf
+  Miedo y Osadía [por Ganz1912].pdf
 </a>
 </div>
 

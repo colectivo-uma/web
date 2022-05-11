@@ -5,7 +5,7 @@
     <link>/biblioteca/</link>
       <atom:link href="/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliotecas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>&amp;COPY; Colectivo Cultural UMA &amp;harrw; </copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu470d5882ff1280e6f6f2bca9f380a67b_398965_300x300_fit_lanczos_2.png</url>
       <title>Bibliotecas</title>
@@ -13,22 +13,9 @@
     </image>
     
     <item>
-      <title>La formación de los intelectuales</title>
-      <link>/biblioteca/antonio-gramsci/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/antonio-gramsci/</guid>
-      <description>&lt;p&gt;¿Los intelectuales son un grupo social autónomo e independiente, o por el contrario cada grupo social tiene una categoría propia y especializada de intelectuales? El problema es complejo por las formas variadas que ha asumido hasta hoy el proceso histórico real de formación de las diversas categorías intelectuales.&lt;/p&gt;
-&lt;div class=&#34;btn-links mb-3&#34;&gt;
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Paulo Reglus Neves Freire</title>
       <link>/biblioteca/paulo-freire/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>/biblioteca/paulo-freire/</guid>
       <description>&lt;p&gt;Hijo de una familia de clase media pobre de Recife, Brasil, nació el 19 de septiembre de 1921. Freire conoció la pobreza y el hambre durante la Gran Depresión de 1929, una experiencia que formó sus preocupaciones por los pobres y que le ayudaría a forjar su perspectiva educativa.&lt;/p&gt;
 &lt;div class=&#34;btn-links mb-3&#34;&gt;
@@ -86,10 +73,23 @@
   Sobre la Acción Cultural [por Ganz1912]
 &lt;/a&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  SHOR, I. - Miedo y Osadía [por Ganz1912].pdf
+  Miedo y Osadía [por Ganz1912].pdf
 &lt;/a&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>La formación de los intelectuales</title>
+      <link>/biblioteca/antonio-gramsci/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/biblioteca/antonio-gramsci/</guid>
+      <description>&lt;p&gt;¿Los intelectuales son un grupo social autónomo e independiente, o por el contrario cada grupo social tiene una categoría propia y especializada de intelectuales? El problema es complejo por las formas variadas que ha asumido hasta hoy el proceso histórico real de formación de las diversas categorías intelectuales.&lt;/p&gt;
+&lt;div class=&#34;btn-links mb-3&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://drive.google.com/file/d/1OnKdVv5dX8fFeDFbROpwffl_0gWoFLf9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
