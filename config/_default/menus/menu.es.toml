@@ -29,7 +29,7 @@
   [[main]]
   parent = "cultura"
   name = "Biblioteca"
-  url = "#biblioteca"
+  url = "/biblioteca"
   weight = 3
 
 [[main]]
