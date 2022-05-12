@@ -21,22 +21,22 @@ interests:
 - Coordinación y organización
 name: Colectivo Cultural UMA
 organizations:
-- name: Stanford University
+- name: El Alto, La Paz, Bolivia
   url: ""
-role: Professor of Artificial Intelligence
+role: Colectivo Cultural UMA
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ccuma
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ccuma
 superuser: true
 user_groups:
 - Researchers

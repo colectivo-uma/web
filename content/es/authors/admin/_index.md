@@ -1,42 +1,41 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Para el Colectivo Cultural UMA la **política** es una ciencia que está prácticamente en todas las relaciones; sociales, naturales y espirituales.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 
+    institution: 
+    year: 2020
+  - course: 
+    institution: 
+    year: 2019
+  - course: 
+    institution: 
+    year: 2018
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pedagogía
+- Marxismo
+- Cultura Colectiva
 name: Colectivo Cultural UMA
 organizations:
-- name: Stanford University
+- name: El Alto, La Paz, Bolivia
   url: ""
-role: Professor of Artificial Intelligence
+role: Colectivo Cultural UMA
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'colectivoculturaluma@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ccuma
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ccuma
 superuser: true
 user_groups:
 - Researchers

@@ -8,10 +8,13 @@ links:
 slides: 
 summary: Pedagogo y filósofo brasileño, destacado defensor de la pedagogía crítica.
 tags:
-- marxismo
+- Pedagogía crítica
+- Alfabetización crítica
+- Educación bancaria
+- Pedagogía de la pregunta
 title: Paulo Reglus Neves Freire
 url_code: ""
-url_pdf: "https://abi.bo"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
