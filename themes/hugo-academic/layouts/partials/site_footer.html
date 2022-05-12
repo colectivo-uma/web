@@ -32,5 +32,10 @@
       </a>
     </span>
     {{ end }}
+    <span class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+    <a href="https://app.netlify.com/sites/ccuma/deploys" target="_blank" rel="noopener"><img src="https://api.netlify.com/api/v1/badges/99863592-4a8b-4fcd-acd7-e4808fe3e328/deploy-status" alt="Netlify Status" style="margin-left: auto;margin-right: auto;"></a>
+  </span>
   </p>
+  
 </footer>
